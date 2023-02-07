@@ -1,6 +1,8 @@
 # **Simple** E2E test suite with Cypress
 [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/urshkd&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/urshkd/runs) [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/count/urshkd&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/urshkd/runs)
 > **application under test:** http://angularjs.realworld.io/
+> 
+> **test results in Cypress Cloud:** https://cloud.cypress.io/projects/urshkd/runs
 
 ## :goal_net: Goals
 - keep it simple - no 'custom' abstractions/functions/utils/helpers (use what Cypress provides)
@@ -13,7 +15,7 @@
 
 ## :gear: Setup
 
-1. `git clone https://github.com/helenanull/cypress-example.git`
+1. `git clone https://github.com/bigbytecy/cypress-example-project.git`
 2. cd to `cypress-example` folder and run `npm install`
 
 
