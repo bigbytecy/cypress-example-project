@@ -4,6 +4,8 @@
 > 
 > **test results in Cypress Cloud:** https://cloud.cypress.io/projects/urshkd/runs
 
+:information_source: **Learn how to write these tests and more in our trainings. More info: [bigbyte.ee](https://bigbyte.ee)**
+
 ## :goal_net: Goals
 - keep it simple - no 'custom' abstractions/functions/utils/helpers (use what Cypress provides)
 - tests are easily readable
